@@ -7,6 +7,7 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shraddha3116/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,9 +15,14 @@ java dsa question
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shraddha3116/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Shraddha3116/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
