@@ -25,4 +25,12 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
