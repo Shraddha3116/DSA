@@ -30,6 +30,7 @@ java dsa question
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 <!---LeetCode Topics End-->
