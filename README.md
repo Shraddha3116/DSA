@@ -28,9 +28,14 @@ java dsa question
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
