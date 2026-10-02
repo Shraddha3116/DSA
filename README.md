@@ -39,8 +39,21 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
