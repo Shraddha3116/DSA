@@ -16,6 +16,7 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Shraddha3116/DSA/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shraddha3116/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
