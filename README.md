@@ -45,6 +45,7 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 <!---LeetCode Topics End-->
