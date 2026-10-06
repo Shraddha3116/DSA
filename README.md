@@ -11,6 +11,7 @@ java dsa question
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shraddha3116/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Shraddha3116/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ java dsa question
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shraddha3116/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shraddha3116/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
