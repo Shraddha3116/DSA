@@ -47,6 +47,7 @@ java dsa question
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shraddha3116/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shraddha3116/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
