@@ -45,6 +45,7 @@ java dsa question
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Shraddha3116/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shraddha3116/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -69,4 +70,8 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shraddha3116/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Shraddha3116/DSA/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
