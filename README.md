@@ -8,6 +8,7 @@ java dsa question
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shraddha3116/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shraddha3116/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,10 +28,12 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha3116/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shraddha3116/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shraddha3116/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Shraddha3116/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shraddha3116/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Shraddha3116/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -48,6 +51,7 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Shraddha3116/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shraddha3116/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shraddha3116/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Shraddha3116/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shraddha3116/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -77,4 +81,5 @@ java dsa question
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Shraddha3116/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shraddha3116/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
